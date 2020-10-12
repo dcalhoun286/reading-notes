@@ -38,6 +38,6 @@ This is a block
 '''This is not a block'''
 
 ## Quoting
-* > This is a quote block
-* > This is another quote
-* > This is a third quote
+> This is a quote block
+> This is another quote
+> This is a third quote
