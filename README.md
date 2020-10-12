@@ -1,5 +1,9 @@
 # Reading notes for CodeFellows!
 
+I am Dar-Ci
+Here is my github
+https://github.com/dcalhoun286
+
 ## Growth Mindset is the 
 
 
