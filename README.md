@@ -13,6 +13,7 @@ https://github.com/dcalhoun286
 ## Table of Contents
 ### Reading Files
 - [Markdown](markdown.md)
+- [Reading Class 2](reading_class 02)
 
 
 ### Review Files
