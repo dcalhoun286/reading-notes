@@ -28,4 +28,4 @@ this is the name that shows up on the screen
 ()
 this is the link to where you want to go
 
-[Random Word](starwars.com)
+[Random Word](https://starwars.com)
