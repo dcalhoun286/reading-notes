@@ -20,4 +20,6 @@ https://github.com/dcalhoun286
 
 *This will be italicized*
 
+```
 This will be a block of code
+```
