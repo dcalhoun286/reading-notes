@@ -15,6 +15,13 @@ Here is my github
 ### Reading Files
 - [Markdown](markdown.md)
 - [Reading Class 2](reading_class 02)
+- [Reading Class 3](reading_class 03)
+- [Reading Class 4](reading_class 04)
+- [Reading Class 5](reading_class 05)
+- [Reading Class 6](reading_class 06)
+- [Reading Class 7](reading_class 07)
+- [Reading Class 8](reading_class 08)
+- [Reading Class 9](reading_class 09)
 
 
 ### Review Files
