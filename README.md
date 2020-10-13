@@ -2,7 +2,7 @@
 
 I am Dar-Ci.
 Here is my github
-[https://github.com/dcalhoun286]
+[https://github.com/dcalhoun286](https://github.com/dcalhoun286)
 
 ## Growth Mindset is the commitment to push and challenge oneself to learn new things and adapt.
 
