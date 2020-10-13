@@ -1,6 +1,7 @@
 # Reading notes for CodeFellows!
 
-I am Dar-Ci.
+![Dar-Ci profile img](
+Hello! My name is Dar-Ci.
 Here is my github
 [https://github.com/dcalhoun286](https://github.com/dcalhoun286)
 
