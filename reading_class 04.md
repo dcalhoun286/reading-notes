@@ -1,4 +1,5 @@
 # What I have learned from reading 4:
+(all info acquired from HTML&CSS by Duckett)
 
 ### Process and Design
 #### Important Questions to Keep in Mind
