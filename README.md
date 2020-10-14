@@ -1,6 +1,6 @@
 # Reading notes for CodeFellows!
 
-![Dar-Ci profile img](https://github.com/dcalhoun286/reading-notes/blob/main/AC67CFA5-18F3-4BFE-BCB4-070D3DA7DFC8.jpeg)
+![Dar-Ci profile](https://github.com/dcalhoun286/reading-notes/blob/main/AC67CFA5-18F3-4BFE-BCB4-070D3DA7DFC8.jpeg)
 Hello! My name is Dar-Ci.
 Here is my github
 [https://github.com/dcalhoun286](https://github.com/dcalhoun286)
