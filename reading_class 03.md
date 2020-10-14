@@ -12,4 +12,4 @@ What I have learned from Reading 3:
 ```
     git remote -v
 ```
-    * code source: https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2
+    * code source: [https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2)
