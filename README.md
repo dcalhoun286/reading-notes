@@ -4,12 +4,6 @@ Hello! My name is Dar-Ci Calhoun. Welcome to my GitHub, where I will be demonstr
 Here is my github
 [https://github.com/dcalhoun286](https://github.com/dcalhoun286)
 
-## Growth Mindset is the commitment to push and challenge oneself to learn new things and adapt.
-
-* When I tell myself I'm not good at this, I remind myself **no one is when they first begin.**
-* When I am tempted to believe "this is as good as I will get", I remind myself that with growth comes effort, which should be challenging.
-* I remember that it is okay to take more than one approach to learning something, and to take a few breather minutes when I become too frustrated.
-
 ## Table of Contents
 ### Reading Files
 - [Markdown](markdown.md)
