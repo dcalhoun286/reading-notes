@@ -4,3 +4,4 @@ What I have learned from Reading 3:
     *I learned how to clone what I have on GitHub to my local computer file
     *I learned how to add/edit files using a Text Editor (VS Code) and then commit/publish those changes to GitHub via Terminal
     * **NEVER** edit directly on GitHub after a repo remote copy has been added.
+* Remember add, commit, push (A, C, P) for all changes
