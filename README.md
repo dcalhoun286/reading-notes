@@ -1,7 +1,6 @@
 # Reading notes for CodeFellows!
 
-![Dar-Ci profile](https://github.com/dcalhoun286/reading-notes/blob/main/AC67CFA5-18F3-4BFE-BCB4-070D3DA7DFC8.png)
-Hello! My name is Dar-Ci.
+Hello! My name is Dar-Ci Calhoun. Welcome to my GitHub, where I will be demonstrating the progress I am making throughout my journey at CodeFellows.
 Here is my github
 [https://github.com/dcalhoun286](https://github.com/dcalhoun286)
 
