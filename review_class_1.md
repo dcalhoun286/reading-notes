@@ -28,7 +28,7 @@ this is the name that shows up on the screen
 ()
 this is the link to where you want to go
 
-[Random Word](https://starwars.com)
+[Woodland Park Zoo](https://www.zoo.org/)
 
 ## Code Block
 ```
