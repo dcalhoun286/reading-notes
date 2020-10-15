@@ -74,3 +74,4 @@
         * &#38 for ampersand
 
 
+### [Back to home](https://dcalhoun286.github.io/reading-notes/)

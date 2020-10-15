@@ -13,3 +13,6 @@ What I have learned from Reading 3:
     git remote -v
 ```
     * code source: [https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#2)
+
+
+### [Back to home](https://dcalhoun286.github.io/reading-notes/)

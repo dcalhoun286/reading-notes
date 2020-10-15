@@ -72,3 +72,5 @@ https://ryanstutorials.net/linuxtutorial/commandline.php#google_vignette
 * Access Hidden Files/Directories
     *ls -a
         * shows all files/directories, including hidden ones
+
+### [Back to home](https://dcalhoun286.github.io/reading-notes/)

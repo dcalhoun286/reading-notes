@@ -109,4 +109,6 @@ var total = price * quantity;
 * name can contain letters, numbers, dollar sign, or an underscore. *CANNOT* use a dash or a period in a variable name
 * *CANNOT* use keywords or reserved words. 
     * list of keywords and reserved words in JavaScript can be found online 
-    
+
+
+### [Back to home](https://dcalhoun286.github.io/reading-notes/) 
