@@ -37,7 +37,7 @@
 
 * **Last Rule**: if two selectors are identical, the latter will take precedence
 * **Specificity**: if one selector is more specific than the others, the more specific rule will take precedence
-* **Important**: You can add ! after any property value to indicate that it should be considered more improtant than other rules that apply to the same element
+* **Important**: You can add ! after any property value to indicate that it should be considered more important than other rules that apply to the same element
 
 #### **Inheritance**
 
