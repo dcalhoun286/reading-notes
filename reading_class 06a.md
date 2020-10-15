@@ -13,6 +13,7 @@
 #### **Creating a Basic JavaScript**
 
 * **Example:**
+
 ```
 var today = new Date();
 var hourNow = today.getHours();
@@ -32,9 +33,11 @@ if (hourNow > 18) {
     }
 document.write('<h3>' + greeting + '</h3>');
 ```
+
 #### **Linking to a JavaScript file from an HTML page**
 
 * **Example:**
+
 ```
 <script src="NAME_OF_JS_FILE.js"></script>
 ```
@@ -48,18 +51,22 @@ document.write('<h3>' + greeting + '</h3>');
 * Write comments to explain what your code does to make your code easier to read and understand
 
 * Example comment in JavaScript:
+
 ```
 /* This comment is to explain what the script does */
 ```
+
 * /* opens the comment
 * */ closes the comment
 
 #### **How to declare variables and assign them to a value**
 
 * Example:
+
 ```
 quantity = 3;
 ```
+
 * quantity is the variable name
 * equals sign is the assignment operator
     * (different from double equals sign, which is comparison operator)
@@ -74,11 +81,13 @@ quantity = 3;
 #### **Using a variable to store a boolean**
 
 * Boolean variables can only have a value of ```true``` or ```false```
+
     * can be helpful for conditionals
 
 #### **Shorthand for Creating Variables**
 
 * Multiple ways to declare variables:
+
 ```
 var price = 5;
 var quantity = 14;
