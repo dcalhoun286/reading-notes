@@ -5,7 +5,7 @@ Here is my github
 [https://github.com/dcalhoun286](https://github.com/dcalhoun286)
 
 ## Table of Contents
-### Reading Files
+### Code 102 Reading Notes
 - [Markdown](markdown.md)
 - [Reading Class 2](reading_class 02)
 - [Reading Class 3](reading_class 03)
@@ -17,8 +17,24 @@ Here is my github
 - [Reading Class 8](reading_class 08)
 - [Reading Class 9](reading_class 09)
 
+### Code 201 Reading Notes
+- [Code201 Reading 01](201_read01)
+- [Code201 Reading 02](201_read02)
+- [Code201 Reading 03](201_read03)
+- [Code201 Reading 04](201_read04)
+- [Code201 Reading 05](201_read05)
+- [Code201 Reading 06](201_read06)
+- [Code201 Reading 07](201_read07)
+- [Code201 Reading 08](201_read08)
+- [Code201 Reading 09](201_read09)
+- [Code201 Reading 10](201_read10)
+- [Code201 Reading 11](201_read11)
+- [Code201 Reading 12](201_read12)
+- [Code201 Reading 13](201_read13)
+- [Code201 Reading 14](201_read14)
+- [Code201 Reading 15](201_read15)
 
-### Review Files
+### Review Files - Code 102
 
 - [Markdown_Review](review_class_1)
 
