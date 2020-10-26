@@ -103,3 +103,5 @@ function getArea(width, height) {
     wallHeight = 5;
     getArea(wallWidth, wallHeight);
     ```
+
+### [Back to home](https://dcalhoun286.github.io/reading-notes/)
