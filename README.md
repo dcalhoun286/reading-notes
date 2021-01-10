@@ -1,11 +1,13 @@
-# Reading notes for CodeFellows!
+# Reading Notes
 
-Hello! My name is Dar-Ci Calhoun. Welcome to my GitHub, where I will be demonstrating the progress I am making throughout my journey at CodeFellows.
+Hello! My name is Dar-Ci Calhoun. I am a software developer studying at Codefellows, with a background in childcare, healthcare, and service industries.
+
+I ~~like~~**love** to learn! On this webpage, I will be documenting information I obtained through assigned readings.
 Here is my github
 [https://github.com/dcalhoun286](https://github.com/dcalhoun286)
 
-## Table of Contents
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Development
+
 - [Markdown_Review](102/review_class_1)
 - [Reading Class 2](102/reading_class-02)
 - [Reading Class 3](102/reading_class-03)
@@ -17,7 +19,8 @@ Here is my github
 - [Reading Class 8](102/reading_class-08)
 - [Reading Class 9](102/reading_class-09)
 
-### Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
+
 - [Code201 Reading 01](201/201_read01.md)
 - [Code201 Reading 02](201/201_read02.md)
 - [Code201 Reading 03](201/201_read03.md)
@@ -35,7 +38,6 @@ Here is my github
 - [Code201 Reading 14b](201/201_read14b.md)
 - [Code201 Reading 15](201/201_read15.md)
 
-### Review Files - Code 102
+## Code 301 - Intermediate Software Development
 
-
-
+## Code 401 - Advanced Software Development
