@@ -41,5 +41,9 @@ Here is my github
 ## Code 301 - Intermediate Software Development
 
 - [Code301 Reading 01](301/301_read01.md)
+- [Code301 Reading 02](301/301_read02.md)
+- [Code301 Reading 03](301/301_read03.md)
+- [Code301 Reading 04](301/301_read04.md)
+- [Code301 Reading 05](301/301_read05.md)
 
 ## Code 401 - Advanced Software Development
