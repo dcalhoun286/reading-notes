@@ -47,5 +47,6 @@ Here is my github
 - [Code301 Reading 05](301/301_read05.md)
 - [Code301 Reading 06](301/301_read06.md)
 - [Code301 Reading 07](301/301_read07.md)
+- [Code301 Reading 08](301/301_read08.md)
 
 ## Code 401 - Advanced Software Development
