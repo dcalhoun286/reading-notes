@@ -4,8 +4,6 @@ Hello! My name is Dar-Ci Calhoun. I am a software developer studying at Codefell
 
 On this webpage, I will be documenting information I obtained through assigned readings.
 
-
-
 ## Code 102 - Intro to Software Development
 
 - [Markdown_Review](102/review_class_1)
