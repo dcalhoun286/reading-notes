@@ -1,10 +1,10 @@
 # Reading Notes
 
-Hello! My name is Dar-Ci Calhoun. I am a software developer studying at Codefellows, with a background in childcare, healthcare, and service industries.
+Hello! My name is Dar-Ci Calhoun. I am a software developer studying at Codefellows, with a background in childcare, healthcare, and service industries. [Follow this link](https://github.com/dcalhoun286) to visit my GitHub profile.
 
-I ~~like~~**love** to learn! On this webpage, I will be documenting information I obtained through assigned readings.
-Here is my github
-[https://github.com/dcalhoun286](https://github.com/dcalhoun286)
+On this webpage, I will be documenting information I obtained through assigned readings.
+
+
 
 ## Code 102 - Intro to Software Development
 
