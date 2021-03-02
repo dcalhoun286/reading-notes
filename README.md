@@ -54,7 +54,7 @@ On this webpage, I will be documenting information I obtained through assigned r
 - [Code301 Reading 14](301/301_read14.md)
 - [Code301 Reading 15](301/301_read15.md)
 
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
 - [Code401 Reading 01](401/401_read01.md)
 - [Code401 Reading 02](401/401_read02.md)
