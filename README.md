@@ -60,3 +60,4 @@ On this webpage, I will be documenting information I obtained through assigned r
 - [Code401 Reading 02](401/401_read02.md)
 - [Code401 Reading 03](401/401_read03.md)
 - [Code401 Reading 04](401/401_read04.md)
+- [Code401 Reading 05](401/401_read05.md)
