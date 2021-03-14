@@ -62,3 +62,4 @@ On this webpage, I will be documenting information I obtained through assigned r
 - [Code401 Reading 04](401/401_read04.md)
 - [Code401 Reading 05](401/401_read05.md)
 - [Code401 Reading 06](401/401_read06.md)
+- [Code401 Reading 07](401/401_read07.md)
