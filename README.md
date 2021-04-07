@@ -66,3 +66,5 @@ On this webpage, I will be documenting information I obtained through assigned r
 - [Code401 Reading 08](401/401_read08.md)
 - [Code401 Reading 09](401/401_read09.md)
 - [Code401 Reading 10](401/401_read10.md)
+- [Code401 Reading 11](401/401_read11.md)
+- [Code401 Reading 12](401/401_read12.md)
