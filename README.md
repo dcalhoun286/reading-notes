@@ -77,3 +77,4 @@ On this webpage, I will be documenting information I obtained through assigned r
 - [Code401 Reading 19](401/401_read19.md)
 - [Code401 Reading 20](401/401_read20.md)
 - [Code401 Reading 21](401/401_read21.md)
+- [Code401 Reading 22](401/401_read22.md)
