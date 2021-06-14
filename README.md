@@ -78,4 +78,6 @@ On this webpage, I will be documenting information I obtained through assigned r
 - [Code401 Reading 20](401/401_read20.md)
 - [Code401 Reading 21](401/401_read21.md)
 - [Code401 Reading 22](401/401_read22.md)
-- [Cod401 Reading 23](401/401_read23.md)
+- [Code401 Reading 23](401/401_read23.md)
+- [Code401 Reading 24](#)
+- [Code401 Reading 25](401/401_read25.md)
