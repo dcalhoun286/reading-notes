@@ -82,5 +82,6 @@ On this webpage, I will be documenting information I obtained through assigned r
 - [Code401 Class 31](401/401_class31.md)
 - [Code401 Class 32](401/401_class32.md)
 - [Code401 Class 33](401/401_class33.md)
-- [Code401 Reading 34](401/401_class34.md)
+- [Code401 Class 34](401/401_class34.md)
+- [Code401 Class 35](401/401_class35.md)
 - [Code401 Reading 25](401/401_read25.md)
