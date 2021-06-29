@@ -80,7 +80,7 @@ On this webpage, I will be documenting information I obtained through assigned r
 - [Code401 Class 29](401/401_class29.md)
 - [Code401 Class 30](401/401_class30.md)
 - [Code401 Class 31](401/401_class31.md)
-- [Code401 Reading 22](401/401_read22.md)
+- [Code401 Class 32](401/401_class32.md)
 - [Code401 Reading 23](401/401_read23.md)
 - [Code401 Reading 24](#)
 - [Code401 Reading 25](401/401_read25.md)
