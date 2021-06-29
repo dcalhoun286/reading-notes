@@ -73,7 +73,7 @@ On this webpage, I will be documenting information I obtained through assigned r
 - [Code401 Class 16](401/401_class16.md)
 - [Code401 Class 17](401/401_class17.md)
 - [Code401 Class 18](401/401_class18.md)
-- [Code401 Reading 16](401/401_read16.md)
+- [Code401 Class 19](401/401_class19.md)
 - [Code401 Reading 17](401/401_read17.md)
 - [Code401 Reading 18](401/401_read18.md)
 - [Code401 Reading 19](401/401_read19.md)
