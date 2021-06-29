@@ -58,7 +58,7 @@ On this webpage, I will be documenting information I obtained through assigned r
 
 - [Code401 Class 01](401/401_class01.md)
 - [Code401 Class 02](401/401_class02.md)
-- [Code401 Reading 03](401/401_read03.md)
+- [Code401 Class 03](401/401_class03.md)
 - [Code401 Reading 04](401/401_read04.md)
 - [Code401 Reading 05](401/401_read05.md)
 - [Code401 Reading 06](401/401_read06.md)
