@@ -87,3 +87,4 @@ On this webpage, I will be documenting information I obtained through assigned r
 - [Code401 Class 36](401/401_class36.md)
 - [Code401 Class 37](401/401_class37.md)
 - [Code401 Class 38](401/401_class38.md)
+- [Code401 Class 39](401/401_class39.md)
